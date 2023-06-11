@@ -10,10 +10,11 @@ I have a passion for good design, and its amazing making my designs into a reali
 
 <br>
 
-Tools, Stacks and languages i know 🛠:
-🔹 VScode
-🔹 JavaScript
-🔹 CSS3
-🔹 HTML5
-🔹 Wordpress
-🔹 Figma
+<h2>Tools, Stacks and languages i know 🛠:</h2>
+<ul>
+  <li>🔹 VScode</li>
+  <li>🔹 HTML5</li>
+  <li>🔹 CSS3</li>
+  <li>🔹 Wordpress</li>
+  <li>🔹 Figma</li>
+</ul>
