@@ -10,11 +10,14 @@ I have a passion for good design, and its amazing making my designs into a reali
 
 <br>
 
-<h2>Tools, Stacks and languages i know 🛠:</h2>
+###Tools, Stacks and languages i know 🛠:
 <ul>
-  <li>🔹 VScode</li>
-  <li>🔹 HTML5</li>
-  <li>🔹 CSS3</li>
-  <li>🔹 Wordpress</li>
-  <li>🔹 Figma</li>
+  <li><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> HTML5</li>
+  <li> CSS3</li>
+  <li> JavaScript</li>
+  <li> VScode</li>
+  <li> Wordpress</li>
+  <li> Figma</li>
 </ul>
+
+#
