@@ -32,7 +32,7 @@ Tools, Stacks and languages i know 🛠:
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanettKM&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanettKM&layout=compact&show_icons=true&theme=radical)
 
 <br>
 <br>
