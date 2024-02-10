@@ -28,7 +28,13 @@ Tools, Stacks and languages i know 🛠:
 
 
 #
+<br>
+<br>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanettKM)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 <br>
 
 [![Jeanett's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanettKM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
