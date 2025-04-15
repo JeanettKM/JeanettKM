@@ -7,9 +7,8 @@
 
 <h1>Hello 😄</h1>
 
-I am Jeanett Melsom, I'm a junior Frontend dev and UX designer in Norway.
-Im fairly tech savvy 💻 and have been into media, design and tech all my life. I've decided that I want to do this for a living, so I took a shot and decided to study frontend, and it certaintly was worth it. 🫶
-I have a passion for good design, and its amazing making my designs into a reality. 💕
+I am Jeanett K. Melsom, I'm a Junior Fullstack developer based in Trondheim with a background from Noroff and experience in React, Node.js, PostgreSQL, and API integrations.
+I'm passionate about creating user-friendly, accessible solutions with a strong focus on both function and design. 💕
 
 My portfolio: https://melsom-dev.netlify.app/
 
